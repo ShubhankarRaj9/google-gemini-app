@@ -1,0 +1,22 @@
+{
+  "name": "node-js-with-gemini",
+  "version": "1.0.0",
+  "description": "A simple Express and EJS application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "chai": "^5.3.3",
+    "mocha": "^10.8.2",
+    "supertest": "^7.1.4"
+  }
+}
